@@ -5,4 +5,4 @@ Test program for active buzzer
 
 # Wiring diagram
 
-![Wiring diagram](https://ibb.co/hMm8M5k)
+![Wiring diagram](https://i.ibb.co/kyScynp/Buzzer-Arduino-Mega2560-bb.png)
